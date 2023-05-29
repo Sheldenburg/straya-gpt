@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Demo is available at [Straya GPT](https://strayagpt.com.au/)
+Note: it may not work on iphones due to the react libray I used for sidebars. But it's only for demo purpose :-), it should work on Android and PCs. If you are concerned, please don't send sensitive information while you are testing it. 
+
 ## Getting Started
 
 First, run the development server:
